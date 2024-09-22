@@ -138,4 +138,5 @@ footer{
     margin-top:40%;
     padding:auto;
     position:absolute;
+    display: flex;
 }
